@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I’m Kalu Stephen, a Data Analyst with a solid background in Electrical Electronics Engineering.
 
