@@ -1,9 +1,16 @@
-## Hi there 👋
+👋 👋 Hello! I'm **Kalu Stephen**, a Certified Google Data Analyst with a robust foundation in Electrical Electronics Engineering. I possess expertise in collecting, transforming, organizing, and visualizing data to facilitate informed decision-making.
 
-I’m Kalu Stephen, a Data Analyst with a solid background in Electrical Electronics Engineering.
 
-I am analytically curious with proficient in working with Power BI and SQL.
+💙💓 As a data analyst, I am fervently dedicated to constructing models that effectively address real-world challenges.
 
-I enjoy analyzing and visualizing data to make better and more informed decisions.
+💻🌿 I am available for job opportunities, collaborative projects, and events that would help me improve my skills and experience.
 
-I am passionate about building models that fix problems.
+🎓 🛠️ 🧠 I use R programming language, SQL, MS Excel, Tableau, and Power BI for Analysis and visualization.
+
+📧📱 Reach me on [Email](kalustephen40@gmail.com) [linkedln](https://www.linkedin.com/in/kalustephen/) [twitter](https://twitter.com/kalusteven)
+
+📚🔗 Feel free to explore my documentation 
+
+
+
+
