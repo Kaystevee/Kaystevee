@@ -1,4 +1,4 @@
-👋 👋 Hello! I'm **Kalu Stephen**, a Certified Google Data Analyst with a robust foundation in Electrical Electronics Engineering. I possess expertise in collecting, transforming, organizing, and visualizing data to facilitate informed decision-making.
+👋 😊 Hello! I'm **Kalu Stephen**, a Certified Google Data Analyst with a robust foundation in Electrical Electronics Engineering. I possess expertise in collecting, transforming, organizing, and visualizing data to facilitate informed decision-making.
 
 
 💙💓 As a data analyst, I am fervently dedicated to constructing models that effectively address real-world challenges.
