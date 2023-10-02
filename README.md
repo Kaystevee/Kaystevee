@@ -7,7 +7,7 @@
 
 🎓 🛠️ 🧠 I use R programming language, SQL, MS Excel, Tableau, and Power BI for Analysis and visualization.
 
-📧📱 Reach me on [Email](kalustephen40@gmail.com) [linkedln](https://www.linkedin.com/in/kalustephen/) [twitter](https://twitter.com/kalusteven)
+📧📱 Reach me on [Email](gmail.com/kalustephen40) [linkedin](https://www.linkedin.com/in/kalustephen/) [twitter](https://twitter.com/kalusteven)
 
 📚🔗 Feel free to explore my documentation 
 
