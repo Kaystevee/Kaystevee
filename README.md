@@ -9,7 +9,7 @@
 
 📧📱 Reach me on <kalustephen40@gmail.com> [linkedin](https://www.linkedin.com/in/kalustephen/) [twitter](https://twitter.com/kalusteven)
 
-📚🔗 Feel free to explore my documentation 
+📚🔗 Feel free to explore my documentation.
 
 
 
